@@ -12,6 +12,7 @@ This repo aims to be used as a foundation to new Python projects, covering the b
 - mypy
 - flake8
 - black
+- bandit
 
 ## Visual Studio code extensions
 
