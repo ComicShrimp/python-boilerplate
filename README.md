@@ -13,6 +13,7 @@ This repo aims to be used as a foundation to new Python projects, covering the b
 - flake8
 - black
 - bandit
+- pylint
 
 ## Visual Studio code extensions
 
